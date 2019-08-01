@@ -14,7 +14,7 @@ class WpeCli < Formula
   end
 
   devel do
-    url "https://s3-us-east-2.amazonaws.com/wpeclinightly/nightly/wpe-cli_nightly_darwin_amd64.tar.gz"
+    url "https://s3-us-east-2.amazonaws.com/wpeclinightly/wpe-cli/nightly/wpe-cli_nightly_darwin_amd64.tar.gz"
   end
 
   def install
